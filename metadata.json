@@ -1,0 +1,8 @@
+{
+  "uuid": "idrac-status@local",
+  "name": "iDRAC Server Status",
+  "description": "Shows server power status via SSH to iDRAC, with power control and scheduling.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "settings-schema": "org.gnome.shell.extensions.idrac-status",
+  "url": ""
+}
