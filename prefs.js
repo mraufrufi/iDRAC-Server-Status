@@ -100,7 +100,7 @@ export default class IdracStatusPreferences extends ExtensionPreferences {
         });
 
         let group = new Adw.PreferencesGroup({
-            title: 'iDRAC Servers',
+            title: 'iDRAC Servers ',
             description: 'Add the servers to monitor and control. Changes save automatically and apply within ~30 seconds.',
         });
         page.add(group);

@@ -118,7 +118,9 @@ Make sure you're on GNOME Shell 45+; the preferences API path differs on older v
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT License — Copyright (c) 2026 Invoxity
+
+You're free to use, copy, modify, merge, publish, and distribute this software, including for commercial purposes, as long as the original copyright notice and license text are retained in all copies or substantial portions of the software. See [LICENSE](LICENSE) for the full text.
 
 ## Contributing
 
