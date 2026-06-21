@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="idrac-status">
+  <schema id="org.gnome.shell.extensions.idrac-status" path="/org/gnome/shell/extensions/idrac-status/">
+    <key name="servers" type="s">
+      <default>'[]'</default>
+      <summary>Server configurations</summary>
+      <description>JSON array of server configs: id, name, host, port, user, password, schedule</description>
+    </key>
+  </schema>
+</schemalist>
